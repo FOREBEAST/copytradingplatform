@@ -1,4 +1,4 @@
-// backend/controllers/traderController.js
+ // backend/controllers/traderController.js
 const Trader = require('../models/Trader');
 
 exports.getAllTraders = async (req, res) => {
